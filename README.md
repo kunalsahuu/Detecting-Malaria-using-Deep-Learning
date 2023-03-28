@@ -1,3 +1,4 @@
+# GDSC Solution Challenge 2023
 # Detecting Malaria using Deep Learning 🦟🦠
 
 <p align="center">
