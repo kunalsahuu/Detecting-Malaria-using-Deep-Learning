@@ -28,7 +28,7 @@ This Project aims to provides a handy tool to utilize the power of Machine Learn
 2. Clone the Repo by going to your local Git Client and pushing in the command: 
 
 ```sh
-https://github.com/kunalsahuu/Malaria-Detection-1-master.git
+https://github.com/kunalsahuu/Detecting-Malaria-using-Deep-Learning.git
 ```
 
 3. Install the Packages: 
