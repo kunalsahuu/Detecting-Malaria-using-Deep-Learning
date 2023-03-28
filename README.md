@@ -47,4 +47,4 @@ python app.py
 
 [MIT](https://github.com/kunalsahuu/Detecting-Malaria-using-Deep-Learning/blob/main/LICENSE)
 
-#Kunal Sahu - GECB
+## KUNAL SAHU - GECB
