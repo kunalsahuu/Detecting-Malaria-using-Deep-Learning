@@ -13,7 +13,7 @@ transparent as possible, whether it's:
 
 - First commment on the issue in which you want to work upon.
 
-  - Issues : https://github.com/HakinCodes/Malaria-Detection/issues
+  - Issues : https://github.com/kunalsahuu/Detecting-Malaria-using-Deep-Learning/issues
 
 - Fork the [repository](https://github.com/HakinCodes/Malaria-Detection)
 
